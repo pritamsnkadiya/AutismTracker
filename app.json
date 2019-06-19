@@ -1,0 +1,16 @@
+{
+	"expo": {
+		"name": "AutismTracker",
+        "displayName": "AutismTracker"
+		"icon": "./app_iconn.png",
+		"description": "Basic app to track Autism",
+		"version": "1.0",
+		"orientation": "portrait",
+		"ios": {
+			"bundleIdentifier": "com.spaak.AutismTracker" // "com.chrisdascoli.getweather"
+		},
+		"android": {
+			"package": "com.spaak.AutismTracker"
+		}
+	}
+}
